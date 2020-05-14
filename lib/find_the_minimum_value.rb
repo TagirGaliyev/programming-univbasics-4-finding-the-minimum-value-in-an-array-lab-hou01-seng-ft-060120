@@ -6,3 +6,5 @@ def find_min_value(array)
   end
   return min
 end
+
+puts find_min_value[2,3,1,4,5]
